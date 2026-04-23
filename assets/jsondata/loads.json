@@ -1,0 +1,92 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "Delete"
+    },
+    {
+      "label": "MB Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "MbComments"
+    },
+    {
+      "label": "Load Details",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "LoadDetail"
+    },
+    {
+      "label": "Load Manifest",
+      "icon": "assets/svg/icons/Loads/Manifest.svg",
+      "action": "LoadManifest"
+    },
+    {
+      "label": "Drop",
+      "icon": "assets/svg/icons/Loads/drop.svg",
+      "action": "Drop"
+    },
+    {
+      "label": "Move Queue",
+      "icon": "assets/svg/icons/orders/SendOrderToMove.svg",
+      "action": "MoveQueue"
+    },
+    {
+      "label": "Packsheet Only",
+      "icon": "assets/svg/icons/orders/SendOrderToMove.svg",
+      "action": "PacksheetOnly"
+    },
+    {
+      "label": "Vics Master Bl",
+      "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
+      "action": "VicsMasterBl"
+    },
+    {
+      "label": "Assign",
+      "icon": "assets/svg/icons/Loads/Assign.svg",
+      "action": "Assign"
+    },
+    {
+      "label": "Load MB On DS",
+      "icon": "assets/svg/icons/orders/DockSchedule.svg",
+      "action": "LoadMBonDS"
+    },
+    {
+      "label": "Update Pro",
+      "icon": "assets/svg/icons/orders/ParcelInfo.svg",
+      "action": "UpdatePro"
+    },
+    {
+      "label": "Master Bill",
+      "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
+      "action": "MasterBill"
+    },
+    {
+      "label": "Print Bills",
+      "icon": "assets/svg/icons/orders/OrderPackages.svg",
+      "action": "PrintBills"
+    },
+    {
+      "label": "Print Picks",
+      "icon": "assets/svg/icons/orders/OrderPallets.svg",
+      "action": "PrintPacks"
+    },
+    {
+      "label": "Overlay Bill",
+      "icon": "assets/svg/icons/orders/PrintFrtInv.svg",
+      "action": "OverlayBill"
+    },
+    {
+      "label": "Release Orders",
+      "icon": "assets/svg/icons/Items/ItemOrdersIcon.svg",
+      "action": "releaseOrders"
+    },
+    {
+      "label": "Dock Appointment",
+      "icon": "assets/svg/icons/tallys/MoveHistoryIcon.svg",
+      "action": "DockAppt"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Building floor -->
+<rect x="4" y="3" width="10" height="4" rx="0.8"
+stroke="#364153" stroke-width="1.2"/>
+
+<!-- Move arrows left -->
+<path d="M6 12L4 10L6 8"
+stroke="#364153" stroke-width="1.2"
+stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- Move arrows right -->
+<path d="M12 8L14 10L12 12"
+stroke="#364153" stroke-width="1.2"
+stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- Floor base line -->
+<path d="M4 14H14"
+stroke="#364153" stroke-width="1.2"
+stroke-linecap="round"/>
+
+</svg>

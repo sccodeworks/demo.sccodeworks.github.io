@@ -1,0 +1,54 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateAsset"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteAsset"
+    },
+       {
+      "label": "Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "AssetComments"
+    }
+  ],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Asset Events",
+      "icon": "assets/svg/icons/Assets/assetEvents.svg",
+      "action": "AssetEvent"
+    },
+    {
+      "label": "Assets Check-in",
+      "icon": "assets/svg/icons/Assets/checkin.svg",
+      "action": "AssetCheckIn"
+    },
+     {
+      "label": "Assets CheckOut",
+      "icon": "assets/svg/icons/Assets/checkout.svg",
+      "action": "AssetCheckOut"
+    },
+    {
+      "label": "Assets Service",
+      "icon": "assets/svg/icons/Assets/Assetservice.svg",
+      "action": "AssetService"
+    },
+      {
+        "label": "Assets Decommission",
+        "icon": "assets/svg/icons/Assets/decomission.svg",
+        "action": "AssetDecommission"
+      },
+      {
+        "label": "Assets Recommission",
+        "icon": "assets/svg/icons/Assets/recomission.svg",
+        "action": "AssetRecommission"
+      }
+  ]
+}

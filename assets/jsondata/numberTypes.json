@@ -1,0 +1,24 @@
+{  
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "WwNumberTypesChangeForm"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "WwNumberTypesDeleteForm"
+    },
+    
+    {
+      "label": "Details",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "NumberTypeDetails"
+    
+    }
+  ]
+}

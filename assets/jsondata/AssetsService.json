@@ -1,0 +1,48 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+{
+      "label": "Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "AssetServiceComments"
+    },
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateAssetService"
+    },
+    {
+      "label": "Cancel",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "CancelAssetService"
+    },
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "InquiryAssetsService"
+    },
+    {
+      "label": "Submit",
+      "icon": "assets/svg/icons/Assets/aseetsubmit.svg",
+      "action": "SubmitAssetsService"
+    },
+    {
+      "label": "Approve",
+      "icon": "assets/svg/icons/Assets/assetapproval.svg",
+      "action": "ApproveAssetService"
+    },
+
+    {
+      "label": "Deny",
+      "icon": "assets/svg/icons/Assets/deny.svg",
+      "action": "DenyAssetsService"
+    },
+     {
+      "label": "Completed",
+      "icon": "assets/svg/icons/Assets/complete.svg",
+      "action": "CompleteAssetsService"
+    }    
+  ]
+}

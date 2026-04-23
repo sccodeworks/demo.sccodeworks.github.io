@@ -1,0 +1,10 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Move Que Redirects Details",
+      "icon": "assets/svg/icons/orders/UpdateTotalIcon.svg",
+      "action": "MovequeRedirectDetails"
+    }]}

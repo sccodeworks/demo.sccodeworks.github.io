@@ -1,0 +1,28 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+ xmlns="http://www.w3.org/2000/svg">
+
+  <!-- List lines -->
+  <line x1="6" y1="7" x2="16" y2="7"
+        stroke="#84919A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="6" y1="11" x2="16" y2="11"
+        stroke="#84919A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="6" y1="15" x2="13" y2="15"
+        stroke="#84919A" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Serial markers (numbers feel) -->
+  <circle cx="4" cy="7" r="1"
+          stroke="#84919A" stroke-width="1.5"/>
+  <circle cx="4" cy="11" r="1"
+          stroke="#84919A" stroke-width="1.5"/>
+  <circle cx="4" cy="15" r="1"
+          stroke="#84919A" stroke-width="1.5"/>
+
+  <!-- Action circle (same style as your icon) -->
+  <circle cx="18" cy="15" r="2.5"
+          stroke="#84919A" stroke-width="1.5"/>
+
+  <!-- Small ticks -->
+  <path d="M18 11V10M18 20V19M14 15H13M23 15H22"
+        stroke="#84919A" stroke-width="1.5" stroke-linecap="round"/>
+
+</svg>

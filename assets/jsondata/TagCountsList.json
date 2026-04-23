@@ -1,0 +1,13 @@
+{
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "header": [],
+  "items": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeTagCount"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "header": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "WDockSchedulerUpdate"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "WDockSchedulerDelete"
+    },
+    {
+      "label": "Comments",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "dockSchedulerComments"
+    }
+  ],
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/dock_scheduler/WRInquiryIcon.svg",
+      "action": "inquiryDockScheduler"
+    },
+
+    {
+      "label": "Assign Time",
+      "icon": "assets/svg/icons/dock_scheduler/AssignTimeIcon.svg",
+      "action": "assignTimeSlot"
+    },
+    {
+      "label": "Driver-In",
+      "icon": "assets/svg/icons/dock_scheduler/DriverInIcon.svg",
+      "action": "driverin"
+    },
+    {
+      "label": "Cancel",
+      "icon": "assets/svg/icons/dock_scheduler/CancelIcon.svg",
+      "action": "cancel"
+    },
+    {
+      "label": "Start-Stop-Time",
+      "icon": "assets/svg/icons/dock_scheduler/StartStopTimeIcon.svg",
+      "action": "startstoptime"
+    },
+    {
+      "label": "Driver-Out",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "driverCheckOut"
+    },
+    {
+      "label": "Details",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "dockSchedulerDetails"
+    },
+    {
+      "label": "Start Time",
+      "icon": "assets/svg/icons/dock_scheduler/StartStopTimeIcon.svg",
+      "action": "startTime"
+    },
+    {
+      "label": "Stop Time",
+      "icon": "assets/svg/icons/dock_scheduler/StartStopTimeIcon.svg",
+      "action": "getStopTimeSlot"
+    },
+    {
+      "label": "Complete",
+      "icon": "assets/svg/icons/dock_scheduler/CompleteIcon.svg",
+      "action": "completeDockScheduler"
+    },
+    {
+      "label": "Event Synopsis",
+      "icon": "assets/svg/icons/dock_scheduler/EventSynopsisIcon.svg",
+      "action": "getEventSynopsis"
+    },
+    {
+      "label": "Synopsis",
+      "icon": "assets/svg/icons/dock_scheduler/SynopsisIcon.svg",
+      "action": "synopsis"
+    },
+    {
+      "label": "Auto Receive",
+      "icon": "assets/svg/icons/dock_scheduler/AutoReceiveIcon.svg",
+      "action": "autoReceive"
+    },
+    {
+      "label": "Split Appointment",
+      "icon": "assets/svg/icons/dock_scheduler/SplitAppointmentIcon.svg",
+      "action": "splitAppt"
+    },
+    {
+      "label": "Print PackList",
+      "icon": "assets/svg/icons/dock_scheduler/PrintPackListIcon.svg",
+      "action": "DockPrintPackList"
+    },
+    {
+      "label": "Carrier Manifest",
+      "icon": "assets/svg/icons/dock_scheduler/CarrierManifestIcon.svg",
+      "action": "DockCarrierManifest"
+    },
+    {
+      "label": "Inspection Sheet",
+      "icon": "assets/svg/icons/dock_scheduler/InspectionSheetIcon.svg",
+      "action": "DockInspectionSheet"
+    },
+    {
+      "label": "Load Diagram",
+      "icon": "assets/svg/icons/dock_scheduler/LoadDiagramIcon.svg",
+      "action": "loadDiagram"
+    },
+    {
+      "label": "Auto Workflow",
+      "icon": "assets/svg/icons/dock_scheduler/LoadDiagramIcon.svg",
+      "action": "Labor2"
+    },
+    {
+      "label": "Load History",
+      "icon": "assets/svg/icons/dock_scheduler/LoadHistoryIcon.svg",
+      "action": "loadHistory"
+    },
+    {
+      "label": "Test Loadout",
+      "icon": "assets/svg/icons/dock_scheduler/TestLoadoutIcon.svg",
+      "action": "openTestLoadoutDialog"
+    },
+    {
+      "label": "Load Out",
+      "icon": "assets/svg/icons/dock_scheduler/LoadOutIcon.svg",
+      "action": "loadOut"
+    },
+    {
+      "label": "Move History",
+      "icon": "assets/svg/icons/dock_scheduler/MoveHistoryIcon.svg",
+      "action": "moveHistory"
+    },
+    {
+      "label": "Metrics Inquiry",
+      "icon": "assets/svg/icons/dock_scheduler/MetricsInquiryIcon.svg",
+      "action": "metricsInquiry"
+    },
+    {
+      "label": "Core Loadout",
+      "icon": "assets/svg/icons/dock_scheduler/CoreLoadoutIcon.svg",
+      "action": "coreLoadout"
+    },
+    {
+      "label": "Post Trailer",
+      "icon": "assets/svg/icons/dock_scheduler/PostTrailerIcon.svg",
+      "action": "postTrailer"
+    },
+    {
+      "label": "Pre Trailer In",
+      "icon": "assets/svg/icons/dock_scheduler/PreTrailerInIcon.svg",
+      "action": "preTrailerIn"
+    },
+    {
+      "label": "Sign All Bills",
+      "icon": "assets/svg/icons/dock_scheduler/SignAllBillsIcon.svg",
+      "action": "signAllBills"
+    },
+    {
+      "label": "Set Stage Location",
+      "icon": "assets/svg/icons/dock_scheduler/SetStageLocationIcon.svg",
+      "action": "setStageLocation"
+    },
+    {
+      "label": "Verify Load",
+      "icon": "assets/svg/icons/dock_scheduler/VerifyLoadIcon.svg",
+      "action": "verifyLoad"
+    },
+    {
+      "label": "Verify Trailer",
+      "icon": "assets/svg/icons/dock_scheduler/VerifyTrailerIcon.svg",
+      "action": "verifyTrailer"
+    },
+    {
+      "label": "Add To Labor II",
+      "icon": "assets/svg/icons/dock_scheduler/AddToLaborIIIcon.svg",
+      "action": "addToLaborII"
+    },
+    {
+      "label": "Release To MQ",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "releaseToMq"
+    },
+    {
+      "label": "Ship Confirm",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "shipConfirm"
+    }
+  ]
+}

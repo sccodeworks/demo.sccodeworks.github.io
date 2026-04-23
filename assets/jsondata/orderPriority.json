@@ -1,0 +1,37 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Priority",
+      "icon": "assets/svg/icons/orders/UpdateTotalIcon.svg",
+      "action": "maintainPriority"
+    },
+    {
+      "label": "Orders",
+      "icon": "assets/svg/icons/orders/OrderDetails.svg",
+      "action": "orders"
+    },
+    {
+      "label": "Bill Synopsis",
+      "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
+      "action": "billSynopsis"
+    },
+    {
+      "label": "Print",
+      "icon": "assets/svg/icons/orders/PrintBillOfLading.svg",
+      "action": "print"
+    },
+    {
+      "label": "Email",
+      "icon": "assets/svg/icons/orders/EmailNewOrder.svg",
+      "action": "Email"
+    },
+    {
+      "label": "PickPrint",
+      "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
+      "action": "pickPrint"
+    }
+  ]
+}

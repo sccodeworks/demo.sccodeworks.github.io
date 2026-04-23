@@ -1,0 +1,10 @@
+{  
+
+  "items": [
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/tallys/WRInquiryIcon.svg",
+      "action": "agingInquiryRead"
+    }
+  ]
+}

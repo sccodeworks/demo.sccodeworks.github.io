@@ -1,0 +1,12 @@
+{
+  "search": {
+    "placeholder": "Search Actions"
+  },
+  "items": [
+     {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "RegionCampusesDelete"
+    }
+  ]
+}

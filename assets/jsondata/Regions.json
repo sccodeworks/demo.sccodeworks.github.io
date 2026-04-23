@@ -1,0 +1,24 @@
+{
+  
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+     {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "WRegionsUpdate"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "WRegionsDelete"
+    },
+        {
+      "label": "Campuses",
+      "icon": "assets/svg/icons/orders/OrderDetails.svg",
+      "action": "RegionCampuses"
+    }
+      
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "search": {
+    "placeholder": "Search by Menu Options"
+  },
+  "items": [
+    {
+      "label": "Change",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "getUpdateForm"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteSerializedInventory"
+    },
+    {
+      "label": "Recycle",
+      "icon": "assets/svg/icons/taskCodes/constraint.svg",
+      "action": "SerializedInventoryRecycle"
+    },
+    {
+      "label": "Re-identify",
+      "icon": "assets/svg/icons/taskCodes/constraint.svg",
+      "action": "SerializedInventoryReidentifyForm"
+    },
+    {
+      "label": "One Sided Adjustment",
+      "icon": "assets/svg/icons/Items/oneSideAdjIcon.svg",
+      "action": "SerializedInventoryOneSidedAdjustmentForm"
+    },
+    {
+      "label": "Two Sided Adjustment",
+      "icon": "assets/svg/icons/Items/twoSideAjustment.svg",
+      "action": "TwoSidedAdjustmentForm"
+    },
+    {
+      "label": "Change Stock Condition",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "ChangeStockCondition"
+    }
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "search": {
+    "placeholder": "Search Actions"
+  },
+  "items": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "RegionCampusesUpdate"
+    },
+     {
+      "label": "Campus Buildings",
+      "icon": "assets/svg/icons/orders/OrderDetails.svg",
+      "action": "RegionCampusesBuildings"
+    }
+  ]
+}

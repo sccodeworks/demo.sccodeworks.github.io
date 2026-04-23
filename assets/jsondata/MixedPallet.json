@@ -1,0 +1,13 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },  
+  "items": [
+   
+    {
+      "label": "Pallet",
+      "icon": "assets/svg/icons/orders/PalletCount.svg",
+      "action": "mixedpalletmove"
+    }
+  ]
+}

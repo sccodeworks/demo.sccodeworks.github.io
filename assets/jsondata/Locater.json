@@ -1,0 +1,45 @@
+{
+  "header": [
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "LocaterDeleteForm"
+    }
+  ],
+  "search": {
+    "placeholder": "Search by Order"
+  },
+  "items": [
+    {
+      "label": "Inquiry",
+       "icon": "assets/svg/icons/receivables/AdjustInquiry.svg",
+      "action": "LocaterInquiryForm"
+    },
+        {
+      "label": "Set Pick Line",
+      "icon": "assets/svg/icons/Items/setPickLine.svg",
+      "action": "setPickLine"
+    },
+        {
+      "label": "2 Side Adj Bucket to Bucket",
+      "icon": "assets/svg/icons/Items/BucketToBucket.svg",
+      "action": "Locater2sAdjustBBForm"
+    },
+    {
+      "label": "2 Side Adj Override",
+      "icon": "assets/svg/icons/Items/twoSideAdjOverride.svg",
+      "action": "Locater2sAdjustOverrideForm"
+    },
+    {
+      "label": "Floor Move",
+      "icon": "assets/svg/icons/Items/floorMove.svg",
+      "action": "LocaterLoadScheduledForm"
+    },
+    {
+      "label": "No Question Delete",
+      "icon": "assets/svg/icons/Items/noQnDelete.svg",
+      "action": "NoQuestionDelete"
+    }
+    
+    ]
+}

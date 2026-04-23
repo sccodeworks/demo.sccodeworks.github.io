@@ -1,0 +1,11 @@
+{
+ 
+  "items": [
+    {
+      "label": "Add",
+      "icon": "assets/svg/icons/storer/short-stock.svg",
+      "action": "addChoice"
+    }
+  
+  ]
+}

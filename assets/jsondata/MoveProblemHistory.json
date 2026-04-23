@@ -1,0 +1,23 @@
+{
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "header": [],
+  "items": [
+    {
+      "label": "Stock Status",
+      "icon": "assets/svg/icons/PhysicalInventory/purcahaseordercycle.svg",
+      "action": "StockStatus"
+    },
+    {
+      "label": "Move Problem History Details",
+      "icon": "assets/svg/icons/orders/OrderDetails.svg",
+      "action": "DetailsMoveProblem"
+    },
+    {
+      "label": "Location Activity",
+      "icon": "assets/svg/icons/tallys/MetricsInquiryIcon.svg",
+      "action": "MapActivity"
+    }
+  ]
+}

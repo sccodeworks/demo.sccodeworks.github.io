@@ -1,0 +1,10 @@
+{
+  "search": {
+    "placeholder": "Search Actions"
+  },
+  
+  "items": [
+    { "label": "Edit", "icon": "assets/svg/dropdownicons/edit.svg", "action": "contactUpdate" },
+    { "label": "Delete", "icon": "assets/svg/dropdownicons/delete.svg", "action": "contactDelete" }
+  ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"
+     fill="none" stroke="#84919A" stroke-width="2"
+     stroke-linecap="round" stroke-linejoin="round">
+
+  <!-- outer circle -->
+  <circle cx="12" cy="12" r="10"/>
+
+  <!-- semi-circle door -->
+  <path d="M8 16a4 4 0 1 1 0-8"/>
+
+  <!-- exit arrow -->
+  <line x1="11" y1="12" x2="17" y2="12"/>
+  <polyline points="14 9 17 12 14 15"/>
+
+</svg>

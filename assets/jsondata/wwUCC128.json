@@ -1,0 +1,32 @@
+{
+  "search": {
+    "placeholder": "Search Menu Options"
+  },
+  "items": [
+    {
+      "label": "Change Consignee Item",
+      "icon": "assets/svg/icons/Loads/Manifest.svg",
+      "action": "ConsigneeItems"
+    },
+    {
+      "label": "Preview Label",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "PreviewLabel"
+    },
+    {
+      "label": "Download PDF",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "DownloadUcc128Pdf"
+    },
+    {
+      "label": "Download ZPL",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "DownloadUcc128Zpl"
+    },
+    {
+      "label": "Header Label",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "PreviewHeaderLabel"
+    }
+  ]
+}

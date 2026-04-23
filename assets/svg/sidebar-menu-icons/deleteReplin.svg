@@ -1,0 +1,8 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer box (same style as your icon) -->
+  <rect x="4" y="3" width="12" height="14" rx="2" stroke="#84919A" stroke-width="2"/>
+
+  <!-- Delete (X) symbol -->
+  <line x1="7" y1="8" x2="13" y2="14" stroke="#84919A" stroke-width="2"/>
+  <line x1="13" y1="8" x2="7" y2="14" stroke="#84919A" stroke-width="2"/>
+</svg>

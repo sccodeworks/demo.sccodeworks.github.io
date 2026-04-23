@@ -1,0 +1,62 @@
+{  
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "InventoryBookDeleteForm"
+    },
+     {
+      "label": "Missing Count",
+      "icon": "assets/svg/icons/inventories/missingCount.svg",
+      "action": "InventoryMissingCountForm"
+    },
+     {
+      "label": "WorkSheet",
+      "icon": "assets/svg/icons/inventories/WorkSheet.svg",
+      "action": "InventoryWorkSheetForm"
+    }, {
+        
+      "label": "Adjust List",
+      "icon": "assets/svg/icons/inventories/adjustList.svg",
+      "action": "AdjustList"
+    }, {
+      "label": "Maintain Book",
+      "icon": "assets/svg/icons/inventories/maintainBook.svg",
+      "action": "BookCount"
+    }, {
+      "label": "Book Details",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "BookDetails"
+    }
+    , {
+      "label": "Duplicate Srls",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "DuplicateSrls"
+    }
+    , {
+      "label": "Reverse Post",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "ReversePost"
+    }
+    , {
+      "label": "LP Book to Count",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "InventoryBookToCountForm"
+    }
+    , {
+      "label": "Serial Variance",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "SerialVariance"
+    }
+    , {
+      "label": "LP Details",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "LpDetails"
+    }
+
+
+  ]
+}

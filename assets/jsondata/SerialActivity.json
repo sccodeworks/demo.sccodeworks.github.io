@@ -1,0 +1,23 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeSerialActivity"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteSerialActivity"
+    }
+  ],
+  "search": {
+    "placeholder": "Search by Task Code"
+  },
+  "items": [
+    {
+      "label": "Reassign",
+      "icon": "assets/svg/icons/taskCodes/constraint.svg",
+      "action": "ReassignSerialActivity"
+    }]
+}

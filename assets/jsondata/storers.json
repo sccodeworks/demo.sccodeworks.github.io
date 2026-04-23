@@ -1,0 +1,270 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "storerUpdate"
+    },
+    {
+      "label": "Deactivate",
+      "icon": "assets/svg/icons/Items/DeactivateIcon.svg",
+      "action": "storerDeactive"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "storerDelete"
+    }
+  ],
+
+  "search": {
+    "placeholder": "Search by Name"
+  },
+
+  "items": [
+    {
+      "label": "Storer Contacts",
+      "icon": "assets/svg/icons/storer/contacts.svg",
+      "action": "storerContacts"
+    },
+    {
+      "label": "Storer Period Records",
+      "icon": "assets/svg/icons/storer/period-records.svg",
+      "action": "storerPeriodRecords"
+    },
+    {
+      "label": "Storer Item",
+      "icon": "assets/svg/icons/storer/item.svg",
+      "action": "storerItem"
+    },
+
+    {
+      "label": "Write Balance Records",
+      "icon": "assets/svg/icons/storer/balance.svg",
+      "action": "writeBalanceRecords"
+    },
+    {
+      "label": "Rebalance Option",
+      "icon": "assets/svg/icons/storer/rebalance.svg",
+      "action": "rebalanceOption"
+    },
+
+    {
+      "label": "Generate Access Invoice",
+      "icon": "assets/svg/icons/storer/gen-access.svg",
+      "action": "storerGenAccessInv"
+    },
+    {
+      "label": "Access Invoice Inquiry",
+      "icon": "assets/svg/icons/storer/access-inquiry.svg",
+      "action": "storerAccessInvoiceInquiry"
+    },
+    {
+      "label": "Storage Invoice Inquiry",
+      "icon": "assets/svg/icons/storer/storage-inquiry.svg",
+      "action": "storageInvoiceInquiry"
+    },
+
+    {
+      "label": "AR Aging Inquiry",
+      "icon": "assets/svg/icons/storer/ar-aging.svg",
+      "action": "storerAragingInquiry"
+    },
+    {
+      "label": "Statement",
+      "icon": "assets/svg/icons/storer/statement.svg",
+      "action": "Statement"
+    },
+
+    {
+      "label": "Rec Invoice Inquiry",
+      "icon": "assets/svg/icons/storer/rec-inquiry.svg",
+      "action": "storerRecIvcInquiry"
+    },
+    {
+      "label": "Generate Rec Summary IV",
+      "icon": "assets/svg/icons/storer/rec-summary.svg",
+      "action": "storerGenRecSumIv"
+    },
+    {
+      "label": "Create WO Invoice",
+      "icon": "assets/svg/icons/storer/create-wo.svg",
+      "action": "storerCreateWoInv"
+    },
+
+    {
+      "label": "EDI Documents",
+      "icon": "assets/svg/icons/storer/edi-documents.svg",
+      "action": "storerEdiDocuments"
+    },
+    {
+      "label": "Item Defaults",
+      "icon": "assets/svg/icons/storer/item-defaults.svg",
+      "action": "ItemDefaults"
+    },
+    {
+      "label": "Storer Printers",
+      "icon": "assets/svg/icons/storer/printers.svg",
+      "action": "Printers"
+    },
+
+    {
+      "label": "Consignee Item",
+      "icon": "assets/svg/icons/storer/consignee-item.svg",
+      "action": "storerConsItem"
+    },
+    {
+      "label": "W/W Serial Control",
+      "icon": "assets/svg/icons/storer/ucc-serial.svg",
+      "action": "storerUccSerCtl"
+    },
+    {
+      "label": "UCC Label Control",
+      "icon": "assets/svg/icons/storer/ucc-label.svg",
+      "action": "storerUccLblCtl"
+    },
+
+    {
+      "label": "Daily Status",
+      "icon": "assets/svg/icons/storer/daily-status.svg",
+      "action": "storerDailyStatus"
+    },
+    {
+      "label": "Storer Rate Bases",
+      "icon": "assets/svg/icons/storer/rate-basis.svg",
+      "action": "RateBasis"
+    },
+    {
+      "label": "Change Rate",
+      "icon": "assets/svg/icons/storer/change-rate.svg",
+      "action": "storerRateChange"
+    },
+
+    {
+      "label": "Generate 869 Trigger",
+      "icon": "assets/svg/icons/storer/869-trigger.svg",
+      "action": "storerGen869Trigger"
+    },
+    {
+      "label": "Reasonableness",
+      "icon": "assets/svg/icons/storer/reasonable.svg",
+      "action": "Reasonableness"
+    },
+
+    {
+      "label": "Storer EDI Info",
+      "icon": "assets/svg/icons/storer/edi.svg",
+      "action": "StorerEDIInfo"
+    },
+    {
+      "label": "Storer Information",
+      "icon": "assets/svg/icons/storer/info.svg",
+      "action": "MaintainStorerInfo"
+    },
+
+    {
+      "label": "Storer Export",
+      "icon": "assets/svg/icons/storer/export.svg",
+      "action": "storerExport"
+    },
+    {
+      "label": "Balance Errors",
+      "icon": "assets/svg/icons/storer/balance-error.svg",
+      "action": "BalanceErrors"
+    },
+
+    {
+      "label": "Storer X Reference",
+      "icon": "assets/svg/icons/storer/xref.svg",
+      "action": "StorerXReference"
+    },
+    {
+      "label": "Account Status",
+      "icon": "assets/svg/icons/storer/status.svg",
+      "action": "storerStatus"
+    },
+
+    {
+      "label": "Storer Comments",
+      "icon": "assets/svg/icons/storer/comments.svg",
+      "action": "storerComments"
+    },
+
+    {
+      "label": "Generate Storage Invoice",
+      "icon": "assets/svg/icons/storer/generate-storage.svg",
+      "action": "GenerateStorageInvoice"
+    },
+    {
+      "label": "Post Storage Grace",
+      "icon": "assets/svg/icons/storer/post-grace.svg",
+      "action": "PostStorageGrace"
+    },
+    {
+      "label": "Print Storage Grace",
+      "icon": "assets/svg/icons/storer/print-grace.svg",
+      "action": "PrintStorageGrace"
+    },
+    {
+      "label": "Inquire Storage Grace",
+      "icon": "assets/svg/icons/storer/storage-grace.svg",
+      "action": "InquireStorageGrace"
+    },
+
+    {
+      "label": "Exp No Activity",
+      "icon": "assets/svg/icons/storer/expire.svg",
+      "action": "storerExpNoActivity"
+    },
+    {
+      "label": "Storer Product Code",
+      "icon": "assets/svg/icons/storer/product-code.svg",
+      "action": "storerProductCode"
+    },
+    {
+      "label": "Storer Auto Rate",
+      "icon": "assets/svg/icons/storer/auto-rate.svg",
+      "action": "storerAutoRate"
+    },
+
+    {
+      "label": "Daily Storage Inquiry",
+      "icon": "assets/svg/icons/storer/daily-storage.svg",
+      "action": "DailyStorageInquiry"
+    },
+    {
+      "label": "Storer Putaway Scheme",
+      "icon": "assets/svg/icons/storer/putaway.svg",
+      "action": "storerPutawayScheme"
+    },
+     {
+      "label": "Verify Item Location",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "VerifyItemLoc"
+    },
+     {
+      "label": "Verify Balance",
+      "icon": "assets/svg/icons/Items/Balance.svg",
+      "action": "VerifyBalance"
+    }, {
+      "label": "Verify Item Location",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "VerifyItemLoc"
+    },
+     {
+      "label": "Delete Empty Location",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "DelEmptyLocation"
+    },
+    {
+      "label": "ReSequence Locater",
+      "icon": "assets/svg/icons/storer/ar-aging.svg",
+      "action": "ReSequenceLocater"
+    },
+   {
+      "label": "UCC Label Control",
+      "icon": "assets/svg/icons/storer/ucc-label.svg",
+      "action": "storerUccLabel"
+    }
+  ]
+}

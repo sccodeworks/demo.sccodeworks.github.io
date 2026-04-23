@@ -1,0 +1,17 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteLoadOut"
+    },
+    {
+      "label": "Unload Pallet",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "unloadPallet"
+    }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeEquipmentOperators"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteEquipmentOperators"
+    },
+    {
+      "label": "Entity Attributes",
+      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+      "action": "EntityAttributes"
+    },
+    {
+      "label": "WW Assignments",
+      "icon": "assets/svg/icons/storer/attributes.svg",
+      "action": "WWAssignments"
+    }
+  ]
+}

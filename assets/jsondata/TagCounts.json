@@ -1,0 +1,49 @@
+{
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "header": [
+  ],
+  "items": [
+      {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeTagCount"
+    },
+     {
+      "label": "Tag Labels",
+      "icon": "assets/svg/icons/PhysicalInventory/tag.svg",
+      "action": "tagcountlabel"
+    },
+    {
+      "label": "List tag counts",
+      "icon": "assets/svg/icons/PhysicalInventory/tagcount.svg",
+      "action": "Listtag"
+    },
+     {
+      "label": "Tag Counts Tags",
+      "icon": "assets/svg/icons/PhysicalInventory/tagcounts.svg",
+      "action": "TagCountsTags"
+    },
+    {
+      "label": "Extended Tag Counts",
+      "icon": "assets/svg/icons/PhysicalInventory/Extendedtagcount.svg",
+      "action": "viewExtendedTagCounts"
+    },
+    {
+      "label": "Control Groups",
+      "icon": "assets/svg/icons/PhysicalInventory/controlgroups.svg",
+      "action": "viewControlGroups"
+    },
+    {
+      "label": "Tag Counts Summary",
+      "icon": "assets/svg/icons/PhysicalInventory/summary.svg",
+      "action": "viewTagCountsSummary"
+    },
+    {
+      "label": "Purchase Order Cycle",
+      "icon": "assets/svg/icons/PhysicalInventory/purcahaseordercycle.svg",
+      "action": "viewPurchaseOrderCycle"
+    }
+  ]
+}

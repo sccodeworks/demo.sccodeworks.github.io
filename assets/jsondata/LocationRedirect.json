@@ -1,0 +1,13 @@
+{  
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+   
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deletelocationredirects"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+
+  "search": {
+    "placeholder": "Search action"
+  },
+  "items": [
+    {
+      "label": "Update Attribute",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "attributesChangeForm"
+    },
+    {
+      "label": "Delete Attribute",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "attributesDelete"
+    }
+  ]
+}
